@@ -1,6 +1,6 @@
-# i_am_rich
+# IknOwT
 
-A new Flutter project.
+Just a simple flutter app showing a logo
 
 ## Getting Started
 
